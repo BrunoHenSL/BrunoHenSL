@@ -1,6 +1,6 @@
 ### Oi, aqui é o Bruno 👋
 
-- 🔭 Atuei como Programador Front-end e Back-end na Prefeitura Virtual na atuação de Freelancer.
+- 🔭 Atuei como Programador Front-end e Back-end na Prefeitura Virtual em regime de Freelancer.
 - 🌱 Aperfeiçoando JavaScript, TypeScript, NodeJs, ReactJs, Vite, PhP, Laravel, PostGre e MySQL.
 - 👯 Estou procurando colaborar em Front-End.
 - 🤔 Procuro ajuda em UX/UI.
